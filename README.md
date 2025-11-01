@@ -66,4 +66,11 @@ YouTube-Data-Analysis/
 - Created visual storytelling from unstructured data
 - Strengthened understanding of real-world text analytics
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 🧑‍💻contact
+Keerthanaa S
+📧 keerthanaa2004@gmail.com
+🔗 LinkedIn(www.linkedin.com/in/keerthanaa-s-a3a99328b)
+
     
